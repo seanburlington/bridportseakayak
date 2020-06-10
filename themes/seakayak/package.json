@@ -1,0 +1,23 @@
+{
+  "name": "seakayak",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "bootstrap": "^4.5.0",
+    "clean-css-cli": "^4.3.0",
+    "node-sass": "^4.14.1",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  },
+  "scripts": {
+    "build:css": "node-sass source/scss/style.scss assets/css/style.css  --source-map true  --source-map-contents true --output-style expanded",
+    "build": "npm run build:css",
+    "clean": "rm css/style.css.tmp",
+    "help": "node-sass --help"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
