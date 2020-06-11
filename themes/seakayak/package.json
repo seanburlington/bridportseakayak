@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "jquery": "^3.5.1"
+  },
   "devDependencies": {
     "bootstrap": "^4.5.0",
     "clean-css-cli": "^4.3.0",
@@ -14,6 +16,7 @@
   "scripts": {
     "build:css": "node-sass source/scss/style.scss assets/css/style.css  --source-map true  --source-map-contents true --output-style expanded",
     "build": "npm run build:css",
+    "build:js": "webpack",
     "clean": "rm css/style.css.tmp",
     "help": "node-sass --help"
   },

@@ -9,9 +9,35 @@
           {{- $currentPage := . -}}
           {{ range .Site.Menus.navbar }}
           {{ $menuURL := .URL | absLangURL }}
-          <li class="nav-item {{ if or ($currentPage.IsMenuCurrent "navbar" .) ($currentPage.HasMenuCurrent "navbar" .) }} active{{end}}">
-            <a class="nav-link" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
-          </li>
+
+          {{ if .HasChildren }}
+
+          <li class="sub-menu{{if $currentPage.HasMenuCurrent "active" . }} {{end}}">
+          
+          
+          
+            
+            <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="{{.URL}}" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              {{ .Name }}
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+             
+              {{ range .Children }}
+              <a class="dropdown-item {{if $currentPage.IsMenuCurrent "main" . }} active {{end}}" href="{{.URL}}"> {{ .Name }} </a> 
+              {{ end }}
+            </div>
+         
+        </li>
+
+          {{ else }}
+            <li class="nav-item {{ if or ($currentPage.IsMenuCurrent "navbar" .) ($currentPage.HasMenuCurrent "navbar" .) }} active{{end}}">
+              <a class="nav-link" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+            </li>
+         
+          {{ end }}
+
+        
           {{ end }}
         </ul>
         </div>

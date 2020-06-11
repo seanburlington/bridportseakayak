@@ -1,9 +1,11 @@
----
-title: "Safety Brief"
-date: 2020-06-10T15:26:28+01:00
-draft: false
-menu: navbar
----
++++
+title= "Safety Brief"
+date= 2020-06-10T15:26:28+01:00
+draft= false
+[menu]
+  [navbar]
+    weight= 100
++++
 
 M.Y.A.B.C.D.E. stands for-
 

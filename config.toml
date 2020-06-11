@@ -4,29 +4,9 @@ title = "Bridport Sea Kayak"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 theme = "seakayak"
 
-[menu]
 
-  [[menu.navbar]]
-    identifier = "Home"
-    name = "Home"
-    title = "Bridport Sea Kayak"
-    url = "/"
-    weight = -100
-  [[menu.navbar]]
-    identifier = "about"
-    name = "About"
-    title = "About Me"
-    url = "/about"
-    weight = 110
-  [[menu.navbar]]
-    identifier = "come-along"
-    name = "Come Along"
-    title = "Come Along"
-    url = "/come-along"
-    weight = 1
-    [[menu.navbar]]
-    identifier = "gallery"
-    name = "Gallery"
-    title = "Gallery"
-    url = "/gallery"
-    weight = 1
+[menu]
+ [[menu.navbar]]
+        identifier = "risk"
+        name = "Risk Assessment"
+        weight = 9

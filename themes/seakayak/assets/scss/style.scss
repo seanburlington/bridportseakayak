@@ -4,4 +4,9 @@
 
 @import "_variables";
 @import "bootstrap";
-//@import "../node_modules/bootstrap/scss/bootstrap";
+
+blockquote {
+  margin-left: 2em;
+  padding-left: 1em;
+  border-left: 2px solid lightgrey;
+}

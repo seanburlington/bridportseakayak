@@ -1,8 +1,11 @@
----
-title: "Come Along"
-date: 2020-06-09T12:53:01+01:00
-draft: false
----
++++
+title= "Join In"
+date= 2020-06-09T12:53:01+01:00
+draft= false
+[menu]
+    [menu.navbar]
+        weight= 8
++++
 
 If you want to join me for a paddle there are a few things I ask
 
@@ -48,8 +51,14 @@ You will need
 - clothing for the conditions (considering water temperature)
 - footwear (no bare feet)
 - a buoyancy aid
+- drinking water
 
 Extra for covid-19
 
 - a small waterproof person first aid kit
 - hand sanitiser
+- maybe a face mask for onshore boat handling
+
+## Consent
+
+https://www.britishcanoeing.org.uk/uploads/documents/T4-Paddlesport-Consent-Form-280716.pdf
