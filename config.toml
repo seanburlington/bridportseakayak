@@ -5,8 +5,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 theme = "seakayak"
 
 
-[menu]
- [[menu.navbar]]
-        identifier = "risk"
-        name = "Risk Assessment"
-        weight = 9
+#[menu]
+# [[menu.navbar]]
+#        identifier = "risk"
+#        name = "Risk Assessment"
+#        weight = 9

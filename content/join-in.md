@@ -40,7 +40,7 @@ To go on the sea a kayak should be manageable in some wind and waves and be one 
 
 ![Sea Kayak](/images/sea-kayak.jpg)
 
-The ideal craft is a sea kayak which has
+The ideal craft for longer journeys and rougher weather is a sea kayak which has
 
 - sealed compartments in front and behind so that it floats even if the cockpit is full of water
 - decklines all around so that you can easily keep hold of it
@@ -49,13 +49,17 @@ The ideal craft is a sea kayak which has
 
 ---
 
-A sit on top may also be a good choice - the main benefit is that you can get back on board after a capsize and paddle away.
+A sit on top is also be a good choice - the main benefit is that you can get back on board after a capsize and paddle away - I paddled one for years and still do sometimes.
 
 ![Sit on Top Kayak](/images/sit-on-top.jpg)
 
 Sit on tops are generally slower/harder to paddle than sea kayaks and are more affected by wind and wave.
 
 Some sit on tops are too short to be used on the sea by beginners (shorter boats slower and turn more easily).
+
+If you want to go fishing, or muck about with kids - they offer a stable platform. If you might go out alone it's much quicker to learn how to "self rescue" a sit on top than a sit in.
+
+There are far more sit on top kayaks than sit ins for these reasons.
 
 ## Unsuitable boats
 

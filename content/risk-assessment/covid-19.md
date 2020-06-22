@@ -1,7 +1,7 @@
 +++
 date = "2020-06-11T11:16:17+01:00"
 title = "Covid 19"
-draft = false
+draft = true
 [menu]
     [menu.navbar]
         parent = "risk"

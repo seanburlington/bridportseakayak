@@ -1,11 +1,11 @@
 +++
 title =  "Risk Assessment"
 date = 2020-06-10T15:29:52+01:00
-draft = false
-[menu]
- [menu.navbar]
- parent = "risk"
- weight = -1
+draft = true
+#[menu]
+# [menu.navbar]
+# parent = "risk"
+#weight = -1
 +++
 
 Risk assessment
