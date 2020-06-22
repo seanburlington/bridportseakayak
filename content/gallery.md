@@ -13,4 +13,4 @@ Many of these are in more challenging conditions than I would take a group into 
 
 Sea Kayaking can be as exciting or as relaxing as you want it to be.
 
-{{< gallery dir="/images/" />}}`
+{{< gallery dir="/gallery/" />}}`

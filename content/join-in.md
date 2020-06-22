@@ -2,42 +2,17 @@
 title= "Join In"
 date= 2020-06-09T12:53:01+01:00
 draft= false
+image = "/images/join-in.jpg"
 [menu]
     [menu.navbar]
         weight= 8
 +++
 
-If you want to join me for a paddle there are a few things I ask
-
-## Mindset
-
 First of all come to learn, enjoy, and soak up the magic of being in a small boat powered by your own body.
 
-If you haven't done it before be prepared to start off not being very good at it - and don't worry but be patient with yourself it comes with practice.
+Be prepared to get wet.
 
-Be prepared to get wet. Accidental capsizes are rare - but the end of a session is a good time to practice "what happens if".
-
-This way you learn some important skills - some to prevent a capsize and some to recover if one does happen.
-
-Practising these skills in safe conditions is what makes it safe to go out.
-
-## Team Spirit
-
-When kayaking each person has their own boat - but it is critical that we all act as a team and look out for each other
-
-Always try to make sure you are not too far ahead or behind the group, ask for help if you need it - and offer help readily to others.
-
-## Responsibility
-
-Kayaking comes with some risk. You need to accept that and take responsibility for your own actions.
-
-At the beginning you may not have a full awareness of where the risks are - and as a qualified leader I will guide you following my training.
-
-There is a balance to be struck - if I suggest something which you do not feel is safe you have a responsibility to say so and not to blindly follow.
-
-On the other hand I may make a request of you for reasons of safety which you would need to follow - normally discussing this is fine - occasionally the discussion may have to happen later if the situation is urgent.
-
-This is a balance we work together on - both leader and paddler having responsibilities.
+Look out for each other - everyone is in their own boat but we stay together and keep each other safe.
 
 ## Kit
 
@@ -59,6 +34,47 @@ Extra for covid-19
 - hand sanitiser
 - maybe a face mask for onshore boat handling
 
-## Consent
+## What makes a suitable boat ?
 
-https://www.britishcanoeing.org.uk/uploads/documents/T4-Paddlesport-Consent-Form-280716.pdf
+To go on the sea a kayak should be manageable in some wind and waves and be one you can get back in after a capsize.
+
+![Sea Kayak](/images/sea-kayak.jpg)
+
+The ideal craft is a sea kayak which has
+
+- sealed compartments in front and behind so that it floats even if the cockpit is full of water
+- decklines all around so that you can easily keep hold of it
+- long narrow shape so that you can paddle efficiently (even against wind and wave)
+- a skeg so that it will navigate well in windy conditions
+
+---
+
+A sit on top may also be a good choice - the main benefit is that you can get back on board after a capsize and paddle away.
+
+![Sit on Top Kayak](/images/sit-on-top.jpg)
+
+Sit on tops are generally slower/harder to paddle than sea kayaks and are more affected by wind and wave.
+
+Some sit on tops are too short to be used on the sea by beginners (shorter boats slower and turn more easily).
+
+## Unsuitable boats
+
+Whitewater kayaks
+
+![Whitewater Kayak](/images/whitewater.jpg)
+
+This is the aquatic equivalent of a BMX bike.
+
+Intended for use on steep rivers or to do stunts.
+
+On calm days, they are a slow, tiring, wet ride; they are uncontrollable in windy conditions. Hard to tow in an emergency, tending to turn sideways and then turn over.
+
+Many have little room for flotation in the form of plastic foam or buoyancy bags and so are hard to rescue after a capsize while maintaining social distance.
+
+---
+
+Inflatable Kayak
+
+![Inflatable Kayak](/images/inflatable.jpg)
+
+Inflatables are quite light and often sit quite high off the water. This makes them perfect for weekend adventures and gentle paddling, but not so great for rapids, sea paddling, or places exposed to the elements. Keep your inflatable in their natural environment such as on canals, sheltered lakes and slow flow rivers.

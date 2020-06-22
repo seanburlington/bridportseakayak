@@ -7,6 +7,9 @@
     {{ end }}
   </header>
   <div class="homepage-content">
+    {{ if .Params.image }}
+      <p class="float-right m-4 rounded-lg"><img src="{{ .Params.image }}"/></p>
+    {{end}}
     <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
     {{.Content}}
   </div>
