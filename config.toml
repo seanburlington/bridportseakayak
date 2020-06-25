@@ -1,4 +1,4 @@
-baseURL = "http://www.bridportseakayak.co.uk/"
+baseURL = "https://www.bridportseakayak.co.uk/"
 languageCode = "en-gb"
 title = "Bridport Sea Kayak"
 disableKinds = ["taxonomy", "taxonomyTerm"]
