@@ -14,10 +14,9 @@
     "webpack-cli": "^3.3.11"
   },
   "scripts": {
-    "build:css": "node-sass source/scss/style.scss assets/css/style.css  --source-map true  --source-map-contents true --output-style expanded",
-    "build": "npm run build:css",
+    "build": "echo main scss build is in hugo",
     "build:js": "webpack",
-    "clean": "rm css/style.css.tmp",
+    "clean": "rm -f assets/css/style.css.tmp",
     "help": "node-sass --help"
   },
   "keywords": [],
